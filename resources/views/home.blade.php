@@ -8,8 +8,9 @@
   <h2>register</h2>
   <form action="">
     <input type="text" placeholder="nama">
-    <input type="text" placeholder="email">
+    <input type="text" placeholder="email">  
     <input type="text" placeholder="password">
+    <button>Login</button>
   </form>
 </body>
 </html>
