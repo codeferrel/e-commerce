@@ -9,8 +9,9 @@
   <form action="">
     <input type="text" placeholder="nama">
     <input type="text" placeholder="email">  
-    <input type="text" placeholder="password">
-    <button>Login</button>
+    <input type="text" placeholder="password">  
+    <button>Login</button>  
+    <button>Daftar acount</button>
   </form>
 </body>
 </html>
