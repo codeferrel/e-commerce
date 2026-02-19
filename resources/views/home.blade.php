@@ -81,13 +81,6 @@
             font-size: 0.9rem;
         }
 
-        .btn-login:hover {
-            color: #0056b3;
-        }
-
-        button:active {
-            transform: scale(0.98);
-        }
     </style>
 </head>
 <body>
