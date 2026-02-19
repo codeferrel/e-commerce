@@ -36,10 +36,8 @@
         form {
             display: flex;
             flex-direction: column;
-            gap: 1rem; /* Jarak antar input */
+            gap: 1rem;
         }
-
-        /* Styling untuk input text dan password */
         input {
             padding: 12px;
             border: 1px solid #ddd;
