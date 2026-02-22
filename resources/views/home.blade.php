@@ -7,6 +7,7 @@
     <style>
         /* Mengatur font dan background dasar */
         body {
+            background-color: darkblue;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f0f2f5;
             display: flex;
